@@ -1,0 +1,7 @@
+T(n) 유도과정 알기
+
+partition = pivot을 리턴해라
+
+quick_sort에서 pivot을 왜뺏냐
+pivot은 index를 이미 찾았기 때문에 pivot을 제외합니다.
+(pivot위치가 정해졌으니 정렬이 필요없다.)
