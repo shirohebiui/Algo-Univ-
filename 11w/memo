@@ -1,0 +1,9 @@
+inplace : 추가 mem 사용 X
+3^n 을 확인? -> 메모리주소 가짓수를 보는거 생각해보기
+DP - 온고지신
+GREEDY - 현재 최선 (근시안적)
+
+인접정점
+kruskal()!
+
+MST vertex - 1
