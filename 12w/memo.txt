@@ -1,0 +1,17 @@
+DP table + memoization
+중복연산 배제, 회피
+O(2^n) - > O(nm) 변환
+
+Floyd = all pair shortest path
+
+Greedy
+*현* 시점 최선을 다하자
+MST, Dijkstra
+
+single src shortest path
+
+dist; 현시점 가장 작은값 비용 찾기;
+
+*한글말고 한국어 잘하기 (전략젓 사고);
+
+그림 8.12 == ppt-11page
