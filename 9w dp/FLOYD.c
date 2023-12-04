@@ -41,7 +41,5 @@ void dp_floyd() {
 int main() {
 	memmove(dp, w, MAX*MAX*sizeof(int));
 	dp_floyd();
-
-
 	return 0;
 }
